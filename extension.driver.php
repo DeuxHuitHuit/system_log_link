@@ -28,9 +28,10 @@
 		public function fetchNavigation() {
 			return array(
 					array (
-						'location' => 'System',
-						'name' => __(self::EXT_NAME),
-						'limit' => 'devlopers'
+						'location' =>  __('System'),
+						'name' => __('System logs'),
+						'limit' => 'developer',
+						'link' => '/symphony/system/log/'
 					)
 				);
 		}
