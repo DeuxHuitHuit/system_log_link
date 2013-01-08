@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="system_log_link" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>System Log Link</name>
+	<description>
+		Only adds a link to the system log in the backend system menu!
+	</description>
+	<repo type="github">https://github.com/DeuxHuitHuit/system_log_link</repo>
+	<url type="discuss">https://github.com/DeuxHuitHuit/system_log_link/issues</url>
+	<types>
+		<type>Link</type>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="DeuxHuitHuit" symphony="nitriques" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>http://www.deuxhuithuit.com</website>
+		</author>
+	</authors>
+	<dependencies>
+		<!-- None -->
+	</dependencies>
+	<releases>
+		<release version="1.0" date="2012-01-08" min="2.3.1">
+			- First release
+		</release>
+	</releases>
+</extension>
