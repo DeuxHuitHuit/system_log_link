@@ -29,9 +29,10 @@
 			return array(
 					array (
 						'location' =>  __('System'),
-						'name' => __('System logs'),
+						'name' => __('Log'),
 						'limit' => 'developer',
-						'link' => '/symphony/system/log/'
+						'link' => 'system/log/',
+						'relative' => false
 					)
 				);
 		}
