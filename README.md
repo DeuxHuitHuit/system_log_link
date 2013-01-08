@@ -9,7 +9,7 @@ But there are no links to it! Give me the link!
 
 ### REQUIREMENTS ###
 
-- Symphony CMS version 2.3.1 and up (as of the day of the last release of this extension)
+- Symphony CMS version 2.3 and up (as of the day of the last release of this extension)
 
 ### INSTALLATION ###
 
