@@ -2,7 +2,10 @@
 
 Version: 1.0
 
-## Only adds a link to the system log in the backend system menu! ##
+### Only adds a link to the system log in the backend system menu! ###
+
+Turns out Symphony has a simpler way to look at the current log then via FTP!
+But there are no links to it! Give me the link!
 
 ### REQUIREMENTS ###
 
