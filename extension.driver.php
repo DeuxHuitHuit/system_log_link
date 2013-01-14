@@ -32,7 +32,8 @@
 						'name' => __('Log'),
 						'limit' => 'developer',
 						'link' => 'system/log/',
-						'relative' => false
+						'relative' => false,
+						'target' => '_blank'
 					)
 				);
 		}
