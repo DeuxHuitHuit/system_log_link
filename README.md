@@ -1,6 +1,6 @@
 # System Log Link #
 
-Version: 1.0
+Version: 1.1
 
 ### Only adds a link to the system log in the backend system menu! ###
 
